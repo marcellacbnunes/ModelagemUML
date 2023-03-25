@@ -1,4 +1,4 @@
-# Projeto-App-CL-nica-Veterin-ria
+# Projeto App Clínica Veterinária
 Projeto desenvolvido para a disciplina Engenharia de Software
 Contribuidores: Erico Kreusch, Cristian Machota e Marcella Nunes
 
